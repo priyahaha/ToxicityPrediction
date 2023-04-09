@@ -20,7 +20,9 @@ Simply run the 'run.sh' file that executes Docker Commands
 Docker Commands:
 
 docker build -t toxicity -f Dockerfile .
+
 docker images
+
 docker run toxicity
 
 Run in Local:
