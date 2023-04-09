@@ -17,8 +17,8 @@ imblearn
 deepchem
 
 tensorflow
-**
-Running the Code with DOCKER:**
+
+**Running the Code with DOCKER:**
 
 Simply run the 'run.sh' file that executes Docker Commands
     - Dockerfile automatically installs the required libraries
