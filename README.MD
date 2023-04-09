@@ -1,8 +1,8 @@
 **Operating System** : Windows
 
-**Python **: Version 3 and above
+**Python ** : Version 3 and above
 
-**Libraries Required **:
+**Libraries Required ** :
 
 pandas
 
